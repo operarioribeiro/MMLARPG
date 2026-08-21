@@ -10,7 +10,7 @@
 
 ## Open Methodology:
 
-1. [Local rule of law](https://en.wikipedia.org/wiki/Rule_of_law) analysis.
+1. [Local rule of law](https://en.wikipedia.org/wiki/Rule_of_law) analysis and compliance audit measures.
 2. [Gameplay](https://en.wikipedia.org/wiki/Gameplay) nonviolent rules constitutional policymaking.
 3. [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct) including new members invitation.
 4. [Game master](https://en.wikipedia.org/wiki/Gamemaster) decision.
