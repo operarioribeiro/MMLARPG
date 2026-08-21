@@ -6,7 +6,7 @@
 
 **Massively Multiplayer Live Action Role Playing Game (MMLARPG)** is the application of the [Generic Universal Role Playing Game System (GURPS)](https://en.wikipedia.org/wiki/GURPS) to the creation of a [cosplay](https://en.wikipedia.org/wiki/Cosplay) [live action role playing (LARP)](https://en.wikipedia.org/wiki/Live_action_role-playing_game) [massively multiplayer online role playing game (MMORPG)](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) platform.
 
-![image](https://github.com/operarioribeiro/MMLARPG/blob/main/Massively%20Multiplayer%20Live%20Action%20Role%20Playing Game%20(MMLARPG).png)
+![image](https://github.com/operarioribeiro/MMLARPG/blob/main/Massively%20Multiplayer%20Live%20Action%20Role%20Playing%20Game%20(MMLARPG).png)
 
 ## Open Methodology:
 
